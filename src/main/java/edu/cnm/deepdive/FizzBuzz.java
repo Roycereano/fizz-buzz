@@ -1,5 +1,8 @@
 package edu.cnm.deepdive;
 
+/**
+ * Implements a method that computes the FizzBuzz {@link String} value for any non-negative integer
+ */
 public class FizzBuzz {
 
   public static final String BUZZ_VALUE = "Buzz";
